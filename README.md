@@ -1,1 +1,1 @@
-# TryHackMe : Recovery Writeup
+# TryHackMe : Recovery
