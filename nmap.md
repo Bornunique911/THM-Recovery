@@ -1,3 +1,4 @@
+```console
 # Nmap 7.91 scan initiated Sat Oct 16 09:01:08 2021 as: nmap -vvv -p 22,80,1337,65499 -A -oN nmap 10.10.234.25
 Nmap scan report for 10.10.234.25 (10.10.234.25)
 Host is up, received syn-ack (0.21s latency).
@@ -36,3 +37,4 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 Read data files from: /usr/bin/../share/nmap
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 # Nmap done at Sat Oct 16 09:03:32 2021 -- 1 IP address (1 host up) scanned in 145.84 seconds
+```
