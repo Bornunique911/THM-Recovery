@@ -5,7 +5,7 @@
 ```console
 ssh alex@MACHINE_IP "/bin/bash"
 ```
-moving .bashrc to .bashrc.backup and from it removing the while loop. And then moving again to .bashrc from .bashrc.backup.
+moving `.bashrc` to `.bashrc.backup` and from it removing the `while` loop. And then moving again to `.bashrc` from `.bashrc.backup`.
 
 We get the first flag.
 
